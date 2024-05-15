@@ -1,4 +1,6 @@
 /* eslint-disable linebreak-style */
+/* eslint-disable import/no-named-as-default-member */
+/* eslint-disable linebreak-style */
 /* eslint-disable import/no-named-as-default */
 /* eslint-disable linebreak-style */
 /* eslint-disable import/extensions */
