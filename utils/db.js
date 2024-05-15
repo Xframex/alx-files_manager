@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 // utils/db.js
+=======
+>>>>>>> a3a46d7639c71819ea4abbe5618cea40fb5b05e6
 
 import { MongoClient } from 'mongodb';
 
@@ -29,3 +32,7 @@ class DBClient {
 
 const dbClient = new DBClient();
 export default dbClient;
+<<<<<<< HEAD
+=======
+
+>>>>>>> a3a46d7639c71819ea4abbe5618cea40fb5b05e6

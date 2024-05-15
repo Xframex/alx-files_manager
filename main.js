@@ -28,7 +28,10 @@ const waitConnection = () => {
     console.log(await dbClient.nbUsers());
     console.log(await dbClient.nbFiles());
 })();
+<<<<<<< HEAD
 
 
 export const dbClient = new DBClient();
 export default dbClient;
+=======
+>>>>>>> a3a46d7639c71819ea4abbe5618cea40fb5b05e6

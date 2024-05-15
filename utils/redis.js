@@ -58,4 +58,8 @@ class RedisClient {
 }
 
 export const redisClient = new RedisClient();
+<<<<<<< HEAD
 export default redisClient;
+=======
+export default redisClient;
+>>>>>>> a3a46d7639c71819ea4abbe5618cea40fb5b05e6
